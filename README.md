@@ -1,2 +1,2 @@
-# Disease-Prediction-App
-It is a disease prediction app using Machine Learning in Python #SubashPalvel #subashpalvel #SUBASHPALVEL
+# disease-prediction-web-app
+It predict whether you are suffering from diabetes ,heart , kidney , breast cancer disease
